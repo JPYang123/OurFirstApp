@@ -19,7 +19,7 @@ struct ContentView: View {
                     Image("MSF")
                         .resizable()
                         .scaledToFit()
-                    Text("Middle School Friends")
+                    Text("High School Friends")
                         .font(.largeTitle)
                 }
             }
